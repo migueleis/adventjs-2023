@@ -13,6 +13,8 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/3">Reto #3: 😏 El elfo travieso - Fácil</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/4">Reto #4: 😵‍💫 Dale la vuelta a los paréntesis - Medio</a>
+
 ## 🔌 Instalación 🔌
 
 Instala las dependencias del projecto:
@@ -21,15 +23,6 @@ Instala las dependencias del projecto:
 
 ## 🎭 Tests 🎭
 Lanza los test de los retos:
-
-```bash
-npm run test # Lanza todos los test
-```
-
-Si quieres probar tus propios scripts, tienes dos opciones:
-
-1. Cambiar de nombre el archivo `index.js` y crear tu propio `index.js`
-2. Comentar la función en el archivo `index.js` y crear tu propia función
 
 ```bash
 npm run test # Para correr todos los test de todos los retos
