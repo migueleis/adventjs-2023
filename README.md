@@ -17,6 +17,9 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/5">Reto #5: 🛷 El CyberTruck de Santa - Medio</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/6">Reto #6: 🦌 Los renos a prueba - Fácil</a>
+
+
 ## 🔌 Instalación 🔌
 
 Instala las dependencias del projecto:
@@ -35,4 +38,4 @@ npm run test:1 # Correra el test del reto 1
 
 ## About
 
-<div class="flex flex-col items-center"><a id="" class="relative block transition-all transform scale-105 hover:contrast-150" href="/es"><h1 class="flex items-center justify-center text-xl text-yellow-300 font-sweater">Advent<img width="60" src="https://adventjs.dev/js-logo.png" alt="JavaScript Logo"></h1></a><div class="flex items-center gap-1 mt-4 mb-10 text-sm">Es una iniciativa de<a class="px-1 bg-white rounded-3xl" href="https://midu.dev" target="_blank" rel="noreferrer"><img src="https://midu.dev/logo.png" width="92" height="28" loading="lazy"></a></div></div>
+<div class="flex flex-col items-center"><a id="" class="relative block transition-all transform scale-105 hover:contrast-150" href="/es"><h1 class="flex items-center justify-center text-xl text-yellow-300 font-sweater">Advent <img width="60" src="https://adventjs.dev/js-logo.png" alt="JavaScript Logo"></h1></a><div class="flex items-center gap-1 mt-4 mb-10 text-sm">Es una iniciativa de<a class="px-1 bg-white rounded-3xl" href="https://midu.dev" target="_blank" rel="noreferrer"><img src="https://midu.dev/logo.png" width="92" height="28" loading="lazy"></a></div></div>
