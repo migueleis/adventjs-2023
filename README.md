@@ -15,6 +15,8 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/4">Reto #4: 😵‍💫 Dale la vuelta a los paréntesis - Medio</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/5">Reto #5: 🛷 El CyberTruck de Santa - Medio</a>
+
 ## 🔌 Instalación 🔌
 
 Instala las dependencias del projecto:
