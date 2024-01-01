@@ -21,6 +21,8 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/7">Reto #7: 📦 Las cajas en 3D - Fácil</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/8">Reto #8: 🏬 Ordenando el almacén - Medio</a>
+
 ## 🔌 Instalación 🔌
 
 Instala las dependencias del projecto:
