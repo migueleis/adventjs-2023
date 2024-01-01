@@ -19,6 +19,7 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/6">Reto #6: 🦌 Los renos a prueba - Fácil</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/7">Reto #7: 📦 Las cajas en 3D - Fácil</a>
 
 ## 🔌 Instalación 🔌
 
