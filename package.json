@@ -1,0 +1,28 @@
+{
+  "name": "adventjs-2023",
+  "version": "1.0.0",
+  "description": "retos realizados en el adventjs 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueleis/adventjs-2023.git"
+  },
+  "keywords": [
+    "js",
+    "retos",
+    "advent",
+    "2023"
+  ],
+  "author": "migueleis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migueleis/adventjs-2023/issues"
+  },
+  "homepage": "https://github.com/migueleis/adventjs-2023#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

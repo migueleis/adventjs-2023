@@ -23,6 +23,8 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/8">Reto #8: 🏬 Ordenando el almacén - Medio</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/9">Reto #9: 🚦 Alterna las luces - Fácil</a>
+
 ## 🔌 Instalación 🔌
 
 Instala las dependencias del projecto:
