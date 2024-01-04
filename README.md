@@ -25,6 +25,8 @@ Repositorio donde estoy subiendo los retos realizados de [Advent JS](https://adv
 
 <a href="https://adventjs.dev/es/challenges/2023/9">Reto #9: 🚦 Alterna las luces - Fácil</a>
 
+<a href="https://adventjs.dev/es/challenges/2023/10">Reto #10: 🎄 Crea tu propio árbol de navidad - Fácil</a>
+
 ## 🔌 Instalación 🔌
 
 Instala las dependencias del projecto:
